@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "歷史紀錄管理工具",
+  "description": "Base Level Extension",
+  "version": "1.0.0",
+  "permissions": [
+    "history"
+  ],
+  "action": {
+    "default_popup": "src/popup/popup.html",
+    "default_icon": "assets/manage_history.png"
+  }
+}
